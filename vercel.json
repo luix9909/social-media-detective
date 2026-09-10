@@ -1,0 +1,16 @@
+{
+  "buildCommand": "npm install && cd client && npm install && npm run build && cd ..",
+  "outputDirectory": "client/build",
+  "env": {
+    "MONGODB_URI": "@mongodb_uri",
+    "REDIS_URL": "@redis_url",
+    "JWT_SECRET": "@jwt_secret",
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "api/**/*.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
