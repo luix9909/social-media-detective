@@ -1,0 +1,70 @@
+{
+  "en": {
+    "app": {
+      "title": "Social Media Detective",
+      "subtitle": "Gather public information about social media accounts"
+    },
+    "nav": {
+      "home": "Home",
+      "history": "History",
+      "settings": "Settings",
+      "about": "About"
+    },
+    "home": {
+      "username": "Username",
+      "platform": "Platform",
+      "search": "Search",
+      "searching": "Searching...",
+      "emptyUsername": "Please enter a username",
+      "userNotFound": "User not found",
+      "searchError": "Search error occurred",
+      "feature1Title": "Safe Information",
+      "feature1Desc": "Only public and safe data collection",
+      "feature2Title": "Fast Search",
+      "feature2Desc": "Real-time accurate results",
+      "feature3Title": "Multi-Language",
+      "feature3Desc": "Support for 5 different languages",
+      "feature4Title": "Save History",
+      "feature4Desc": "Access to complete search history"
+    },
+    "results": {
+      "followers": "Followers",
+      "following": "Following",
+      "posts": "Posts",
+      "engagement": "Engagement Rate",
+      "accountStatus": "Account Status",
+      "verified": "Verified Account",
+      "private": "Private",
+      "public": "Public",
+      "notFound": "No results found",
+      "error": "Error fetching data"
+    },
+    "history": {
+      "empty": "No search history",
+      "error": "Error fetching history",
+      "deleteError": "Error deleting record",
+      "clearError": "Error clearing history",
+      "clearAll": "Clear All",
+      "confirmClear": "Are you sure you want to clear all history?"
+    },
+    "settings": {
+      "language": "Language",
+      "about": "About"
+    },
+    "about": {
+      "about": "About",
+      "features": "Features",
+      "contact": "Contact",
+      "disclaimer": "Disclaimer"
+    },
+    "platforms": {
+      "autoDetect": "Auto Detect",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "tiktok": "TikTok",
+      "youtube": "YouTube",
+      "telegram": "Telegram",
+      "snapchat": "Snapchat"
+    }
+  }
+}
