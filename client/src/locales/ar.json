@@ -1,0 +1,70 @@
+{
+  "ar": {
+    "app": {
+      "title": "Social Media Detective",
+      "subtitle": "جمع معلومات آمنة وعامة عن حسابات التواصل الاجتماعي"
+    },
+    "nav": {
+      "home": "الرئيسية",
+      "history": "السجل",
+      "settings": "الإعدادات",
+      "about": "عن التطبيق"
+    },
+    "home": {
+      "username": "اسم المستخدم",
+      "platform": "المنصة",
+      "search": "بحث",
+      "searching": "جاري البحث...",
+      "emptyUsername": "يرجى إدخال اسم المستخدم",
+      "userNotFound": "المستخدم غير موجود",
+      "searchError": "حدث خطأ في البحث",
+      "feature1Title": "معلومات آمنة",
+      "feature1Desc": "جمع البيانات العامة والآمنة فقط",
+      "feature2Title": "بحث سريع",
+      "feature2Desc": "نتائج فورية ودقيقة",
+      "feature3Title": "لغات متعددة",
+      "feature3Desc": "دعم 5 لغات مختلفة",
+      "feature4Title": "حفظ السجل",
+      "feature4Desc": "الوصول إلى السجل كاملاً"
+    },
+    "results": {
+      "followers": "المتابعون",
+      "following": "المتابع",
+      "posts": "المنشورات",
+      "engagement": "معدل التفاعل",
+      "accountStatus": "حالة الحساب",
+      "verified": "حساب محقق",
+      "private": "خاص",
+      "public": "عام",
+      "notFound": "لم تُعثر على النتائج",
+      "error": "حدث خطأ في جلب البيانات"
+    },
+    "history": {
+      "empty": "لا توجد سجلات بحث",
+      "error": "خطأ في جلب السجل",
+      "deleteError": "خطأ في حذف السجل",
+      "clearError": "خطأ في مسح السجل",
+      "clearAll": "مسح الكل",
+      "confirmClear": "هل أنت متأكد من رغبتك في مسح جميع السجلات؟"
+    },
+    "settings": {
+      "language": "اللغة",
+      "about": "حول"
+    },
+    "about": {
+      "about": "عن التطبيق",
+      "features": "الميزات",
+      "contact": "الاتصال",
+      "disclaimer": "تنويه مهم"
+    },
+    "platforms": {
+      "autoDetect": "كشف تلقائي",
+      "instagram": "انستغرام",
+      "twitter": "تويتر",
+      "tiktok": "تيك توك",
+      "youtube": "يوتيوب",
+      "telegram": "تيليجرام",
+      "snapchat": "سناب تشات"
+    }
+  }
+}
